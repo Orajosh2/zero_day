@@ -1,0 +1,5 @@
+orajosh2@ubuntu:/tmp/h$ ./0-hello_world 
+Hello, World
+orajosh2@ubuntu:/tmp/h$ ./0-hello_world | cat -e
+Hello, World$
+orajosh2@ubuntu:/tmp/h$
